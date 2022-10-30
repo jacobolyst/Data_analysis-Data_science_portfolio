@@ -9,7 +9,7 @@ Data analysis or data science projects which I done for self-learning or within 
 <ul>
 <li><b><a href="https://github.com/jacobolyst/Data_analysis-Data_science_portfolio/tree/main/NYC%20Aribnb%20Analysis">NYC Airbnb analysis</a></b> - Data exploration, analysis and visualization of Airbnb market in New York City during 2019 year to answer on few key business questions.</li>
 
-<li><b>Telco Customer Churn</b> - Classification and clusterization of customers who decide to churn services of the company and data analysis for looking for main reasons related to their resignation.</li></li>
+<li><b>Telco Customer Churn Classification</b> - Classification and clusterization of customers who decide to churn services of the company and data analysis for looking for main reasons related to their resignation.</li></li>
 
 
 </ul>
