@@ -25,7 +25,7 @@ Tools: json, Matplotlib, Numpy, Pandas, requests, Seaborn, Scipy, wordcloud
 <ul><li><h3>Data Science</h3>
 
 <ul>
-<li><b><a href="https://github.com/jacobolyst/Data_analysis-Data_science_portfolio/tree/main/NYC%20Aribnb%20Analysis">Telco Customer Churn Classification</a></b> - Data and cluster in-depth analysis of customers who decide to churn services of the telecomunication company with solving a classification problem of recognition part of clients who left Telco in the last month.</li></li>
+<li><b><a href="https://github.com/jacobolyst/Data_analysis-Data_science_portfolio/tree/main/Telco%20Customer%20Churn%20Classification">Telco Customer Churn Classification</a></b> - Data and cluster in-depth analysis of customers who decide to churn services of the telecomunication company with solving a classification problem of recognition part of clients who left Telco in the last month.</li></li>
 </ul>
 
 <br>
