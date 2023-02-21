@@ -1,5 +1,5 @@
-<h3>What is the Terra NFTs cryptocurrency?</h3>
+<h3>New York City Airbnb 2019 data analysis</h3>
 
-Web scraping of cryptocurrency Terrapins on Terra NFT semi-structured data and analysis of trends of 10 000 unique NFTs to see characterisric of this currency. My group analyzed 10 000 unique, randomized generated terrapins (there are no same figures) and check the number and amount of transactions for different combinations of features.
+Data exploration, analysis and visualization of Airbnb market in New York City during 2019 year to answer on few key business questions. This analysis was done on struckred data provided by the Airbnb website. I explored the most popular hosts, the most expensive neighbourhoods or price distribution depending on the room/house type.
 
 This project was realized as a part of course called <i>Analysis of unstructered data</i>.
