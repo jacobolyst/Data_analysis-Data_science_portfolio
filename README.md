@@ -11,7 +11,7 @@ Data analysis or data science projects which I done for self-learning or within 
 </ul>
 
 <ul>
-<li><b><a href="https://github.com/jacobolyst/Data_analysis-Data_science_portfolio/tree/main/NYC%20Aribnb%20Analysis">What is the Terra NFTs cryptocurrency?</a></b> - Web scraping of cryptocurrency Terrapins on Terra NFT data and analysis of trends and amount of transactions of 10 000 unique NFTs to see characterisric of this currency.</li>
+<li><b><a href="https://github.com/jacobolyst/Data_analysis-Data_science_portfolio/tree/main/Terrapin%20NFTs%20analysis">What is the Terra NFTs cryptocurrency?</a></b> - Web scraping of cryptocurrency Terrapins on Terra NFT data and analysis of trends and amount of transactions of 10 000 unique NFTs to see characterisric of this currency.</li>
 </ul>
 
 <ul>
