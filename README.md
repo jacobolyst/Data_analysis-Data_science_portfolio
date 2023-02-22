@@ -15,7 +15,7 @@ Data analysis or data science projects which I done for self-learning or within 
 </ul>
 
 <ul>
-<li><b><a href="https://github.com/jacobolyst/Data_analysis-Data_science_portfolio/tree/main/NYC%20Aribnb%20Analysis">Relationship graph of online dictionary</a></b> - Web scraping of Polish dictionary made by Wikipedia with analysis of Polish language and looking for circular definitions of the words.</li>
+<li><b><a href="https://github.com/jacobolyst/Data_analysis-Data_science_portfolio/tree/main/Realtionship%20dictionary%20graph">Relationship graph of online dictionary</a></b> - Web scraping of Polish dictionary made by Wikipedia with analysis of Polish language and looking for circular definitions of the words.</li>
 </ul>
 
 <br>
